@@ -1,6 +1,6 @@
 # SQL Project: Music Store Analysis
 
-Read the full detailed article <a href="https://avishek-choudhary.github.io/projects/Music%20Store.html">here</a>.
+
 
 ## Description
 
@@ -86,3 +86,4 @@ The project was successful in answering the set of questions about the store's b
 
 
 I hope this is helpful! -->
+
