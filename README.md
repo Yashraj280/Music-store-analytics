@@ -25,7 +25,12 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
     ```md
     ![schema](MusicDatabaseSchema.png)
+
+    
     ``` -->
+##**Schema**
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/9dfce2ae-8e5b-4c66-8793-a235427ffce9" />
+
 
 ## Database and Tools
 
@@ -84,6 +89,7 @@ The project was successful in answering the set of questions about the store's b
 
 
 I hope this is helpful! -->
+
 
 
 
